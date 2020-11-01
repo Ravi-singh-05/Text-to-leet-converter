@@ -1,5 +1,6 @@
 import random
 
+
 def leet_list(x):
     #this 'x' we will use to fetch the correct word and then it will  put a leet word in place of real word
     A = ['4', "/\"", '''@''', 'aye', '(L']
